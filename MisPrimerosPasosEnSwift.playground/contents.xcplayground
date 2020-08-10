@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Bienvenida'/>
+        <page name='Evaluación'/>
+        <page name='Playground'/>
+        <page name='Tipos de datos'/>
+        <page name='Tipos de variables'/>
+        <page name='Operadores lógicos'/>
+        <page name='Concatenación'/>
+        <page name='Ejercicio Final Cap I'/>
+        <page name='Introducción a SAP'/>
+        <page name='Clasificación de Algoritmos '/>
+        <page name='Formulación y Comprensión de Problemas'/>
+        <page name='Diagramas de Flujo'/>
+        <page name='Resultados del Experimento'/>
+        <page name='Pseudocódigo'/>
+        <page name='Arrays'/>
+        <page name='Set y Diccionarios'/>
+        <page name='Untitled Page'/>
+        <page name='Condicionales'/>
+        <page name='Ejercios Final Cap VI'/>
+        <page name='Funciones'/>
+        <page name='Guía de nivel'/>
+    </pages>
+</playground>
